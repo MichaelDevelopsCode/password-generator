@@ -8,7 +8,7 @@ This is a password generator that takes criteria and randomizes string to give a
 ​
 ## Installation
 
-​Visit the live website through github [https://michaeldevelopscode.github.io/horiseon-optimal-refactor/]
+​Visit the live website through github [https://michaeldevelopscode.github.io/password-generator/]
 ​
 ## Screenshots 
 ​ ![Webpage Screenshot](./assets/imgs/screenshot.png)
